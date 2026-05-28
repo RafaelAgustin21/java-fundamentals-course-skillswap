@@ -1,4 +1,4 @@
-// Este es el archivo base para la Lección 7 (Clases y Objetos)
+
 class Mascota {
     // Aquí irán las características de nuestra mascota
 
