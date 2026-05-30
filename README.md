@@ -27,19 +27,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Conclusiones clave**: Usa int, String; declara como `int edad = 15;`
 **Práctica**: [Clic para programar](https://replit.com/link-2) ¡No es necesario registrarse!
 
-### 🟡 Módulo 2: Lógica y Decisiones (A cargo de: [Nombre Integrante 2])
+### 🟡 Módulo 2: Lógica y Decisiones (A cargo de: Santiago Enrique Vargas Alarcon - u202416706)
 
 #### Lección 3: Operadores y expresiones (3 minutos)
 **Descripción**: Matemáticas y comparaciones básicas para que tu programa piense.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-3)
+**Enlace**: [Ver la lección](https://youtu.be/1Z9TXRsuILg)
 **Conclusiones clave**: Uso de +, -, ==, y cómo comparar datos.
-**Práctica**: [Clic para programar](https://onlinegdb.com/link-3)
+**Práctica**: [Clic para programar](https://onlinegdb.com/LNWMEK_XM)
 
 #### Lección 4: Estructuras de control - Decisiones y bucles (4 minutos)
 **Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-4)
+**Enlace**: [Ver la lección](https://youtu.be/eXQWu6j1-24)
 **Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
-**Práctica**: [Clic para programar](https://onlinegdb.com/link-4)
+**Práctica**: [Clic para programar](https://onlinegdb.com/UKQk8eCu9)
 
 ### 🟠 Módulo 3: Acción e Interacción (A cargo de: [Nombre Integrante 3])
 
