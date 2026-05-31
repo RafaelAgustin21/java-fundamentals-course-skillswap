@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
 
-**Enlace**: [[Ver la lección](https://www.youtube.com/watch?v=3vbKR3H-h_U)](https://www.youtube.com/watch?v=3vbKR3H-h_U)
+**Enlace**: [[Ver la lección](https://www.youtube.com/watch?v=rKstDPpmE8U)](https://www.youtube.com/watch?v=rKstDPpmE8U)
 
 **Conclusiones clave**:
 - La programación consiste en dar instrucciones a una computadora para resolver problemas o realizar tareas.
