@@ -37,15 +37,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 #### Lección 3: Operadores y expresiones (3 minutos)
 **Descripción**: Matemáticas y comparaciones básicas para que tu programa piense.
-**Enlace**: [Ver la lección](https://youtu.be/1Z9TXRsuILg)
+**Enlace**: [https://youtu.be/1Z9TXRsuILg](https://youtu.be/1Z9TXRsuILg)
 **Conclusiones clave**: Uso de +, -, ==, y cómo comparar datos.
-**Práctica**: [Clic para programar](https://onlinegdb.com/LNWMEK_XM)
+**Práctica**: [https://onlinegdb.com/LNWMEK_XM](https://onlinegdb.com/LNWMEK_XM)
 
 #### Lección 4: Estructuras de control - Decisiones y bucles (4 minutos)
 **Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
-**Enlace**: [Ver la lección](https://youtu.be/eXQWu6j1-24)
+**Enlace**: [https://youtu.be/eXQWu6j1-24](https://youtu.be/eXQWu6j1-24)
 **Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
-**Práctica**: [Clic para programar](https://onlinegdb.com/UKQk8eCu9)
+**Práctica**: [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9)
 
 ### 🟠 Módulo 3: Acción e Interacción (A cargo de: [Nombre Integrante 3])
 
